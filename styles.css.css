@@ -1,0 +1,77 @@
+header
+{
+    background-color: rgb(34, 0, 255);
+    text-align: center;
+}
+footer
+{
+    background-color: rgba(38, 0, 255, 0.614);
+    text-align: center;
+}
+h1
+{
+    color: aquamarine;
+    font-size: 260%;
+    font-family: monospace;
+}
+p
+{
+    color: aquamarine;
+    text-align: center;
+}
+.grillacontenedora4partes
+{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+div.rosa
+{
+    background-color: pink;
+}
+div.lila
+{
+    background-color: rgba(43, 226, 49, 0.932);
+}
+div.lila:hover
+{
+    background-color: aqua;
+}
+div.naranja
+{
+    background-color: rgba(213, 162, 68, 0.967);
+}
+div.cafe
+{
+    background-color: brown;
+}
+.grillacontenedora3partes
+{
+    display: grid;
+    grid-template-columns: 50% 35% 15%;
+}
+div.amarillo
+{
+    background-color: pink;
+}
+div.lila
+{
+    background-color: violet;
+}
+div.naranja
+{
+    background-color: orange;
+}
+h2
+{
+    color: navy;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2:hover
+{
+    color: skyblue;
+    text-align: center;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
